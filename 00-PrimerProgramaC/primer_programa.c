@@ -43,7 +43,7 @@ int main(){
                     printf("El resultado de la division es: %.2f\n", DIV(num1,num2));
                 }
                 else{
-                    printf("El resultado es indefinido ya que el denominador es igual a 0");
+                    printf("El resultado es indefinido ya que el denominador es igual a 0\n");
                 }
                 break;
         }
